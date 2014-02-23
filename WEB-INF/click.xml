@@ -1,0 +1,10 @@
+<click-app charset="UTF-8" locale="ja"> 
+  <pages package="bookstore.click" automapping="true">
+    <page path="index.htm" classname="LoginPage"/>
+  </pages> 
+<headers>
+    <header name="Pragma" value="no-cache"/>
+    <header name="Cache-Control" value="no-store, no-cache, must-revalidate"/>
+  </headers>
+  <mode value="debug"/>
+</click-app> 
